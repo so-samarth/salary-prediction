@@ -2,7 +2,3 @@ Flask==2.2.2
 Flask_Cors==3.0.10
 pandas==1.4.3
 scikit_learn==1.1.2
-numpy==1.23.1
-pickleshare==0.7.5
-sns==0.1
-matplotlib-inline==0.1.3
