@@ -85,7 +85,7 @@ def predict():
             janitor = 0
             
         elif (jobType=='JANITOR'):
-            cto = o
+            cto = 0
             cfo = 0
             vice_president = 0
             manager = 0
